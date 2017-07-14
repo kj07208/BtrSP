@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.min.css" Url="Content/bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\btrPopup.css" Url="Content/btrPopup.css" ReplaceContent="TRUE" />
+    <File Path="Content\main.css" Url="Content/main.css" ReplaceContent="TRUE" />
+    <File Path="Content\page_btredit.css" Url="Content/page_btredit.css" ReplaceContent="TRUE" />
+    <File Path="Content\page_btr.css" Url="Content/page_btr.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

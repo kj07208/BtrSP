@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Index.js" Url="Scripts/Index.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\envconfig.js" Url="Scripts/envconfig.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\fileUploader.js" Url="Scripts/fileUploader.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\wizard.js" Url="Scripts/wizard.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\LookupValues.js" Url="Scripts/LookupValues.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Page.BtrEdit.js" Url="Scripts/Page.BtrEdit.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\SP.User.js" Url="Scripts/SP.User.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TransferActivity.js" Url="Scripts/TransferActivity.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Utils.js" Url="Scripts/Utils.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\waitdialog.js" Url="Scripts/waitdialog.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\BudgetTransfer.js" Url="Scripts/BudgetTransfer.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Account.js" Url="Scripts/Account.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Banner.jv.js" Url="Scripts/Banner.jv.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

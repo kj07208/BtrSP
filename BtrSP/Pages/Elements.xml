@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\BTR.aspx" Url="Pages/BTR.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\BTREdit.aspx" Url="Pages/BTREdit.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\BTREdit_wizard.aspx" Url="Pages/BTREdit_wizard.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\RequestApproval.aspx" Url="Pages/RequestApproval.aspx" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

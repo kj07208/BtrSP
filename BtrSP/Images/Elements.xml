@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\animated_wait.gif" Url="Images/animated_wait.gif" ReplaceContent="TRUE" />
+    <File Path="Images\animatedEllipse.gif" Url="Images/animatedEllipse.gif" ReplaceContent="TRUE" />
+    <File Path="Images\Black_Pencil_Icon.png" Url="Images/Black_Pencil_Icon.png" ReplaceContent="TRUE" />
+    <File Path="Images\checkmark100.png" Url="Images/checkmark100.png" ReplaceContent="TRUE" />
+    <File Path="Images\checkmark32.png" Url="Images/checkmark32.png" ReplaceContent="TRUE" />
+    <File Path="Images\delete_1.png" Url="Images/delete_1.png" ReplaceContent="TRUE" />
+    <File Path="Images\delete_2.png" Url="Images/delete_2.png" ReplaceContent="TRUE" />
+    <File Path="Images\delete4.png" Url="Images/delete4.png" ReplaceContent="TRUE" />
+    <File Path="Images\delete5.gif" Url="Images/delete5.gif" ReplaceContent="TRUE" />
+    <File Path="Images\Dollar-Sign-2-icon.png" Url="Images/Dollar-Sign-2-icon.png" ReplaceContent="TRUE" />
+    <File Path="Images\eye.png" Url="Images/eye.png" ReplaceContent="TRUE" />
+    <File Path="Images\icon-user.png" Url="Images/icon-user.png" ReplaceContent="TRUE" />
+    <File Path="Images\info.png" Url="Images/info.png" ReplaceContent="TRUE" />
+    <File Path="Images\logo.png" Url="Images/logo.png" ReplaceContent="TRUE" />
+    <File Path="Images\pencil01.png" Url="Images/pencil01.png" ReplaceContent="TRUE" />
+    <File Path="Images\plus_light_alt.png" Url="Images/plus_light_alt.png" ReplaceContent="TRUE" />
+    <File Path="Images\plus16.png" Url="Images/plus16.png" ReplaceContent="TRUE" />
+    <File Path="Images\priority-low.png" Url="Images/priority-low.png" ReplaceContent="TRUE" />
+    <File Path="Images\priority-medium.png" Url="Images/priority-medium.png" ReplaceContent="TRUE" />
+    <File Path="Images\red-cross-small-icons-22612.png" Url="Images/red-cross-small-icons-22612.png" ReplaceContent="TRUE" />
+    <File Path="Images\redx100-1.png" Url="Images/redx100-1.png" ReplaceContent="TRUE" />
+    <File Path="Images\redx100-2.jpg" Url="Images/redx100-2.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\semicircle.png" Url="Images/semicircle.png" ReplaceContent="TRUE" />
+    <File Path="Images\star_selected.png" Url="Images/star_selected.png" ReplaceContent="TRUE" />
+    <File Path="Images\star_unselected.png" Url="Images/star_unselected.png" ReplaceContent="TRUE" />
+    <File Path="Images\tc_text.png" Url="Images/tc_text.png" ReplaceContent="TRUE" />
+    <File Path="Images\tc_web_masthead_logo_tag.png" Url="Images/tc_web_masthead_logo_tag.png" ReplaceContent="TRUE" />
+    <File Path="Images\TeacherCollege.png" Url="Images/TeacherCollege.png" ReplaceContent="TRUE" />
+    <File Path="Images\TeacherCollegeLogo.png" Url="Images/TeacherCollegeLogo.png" ReplaceContent="TRUE" />
+    <File Path="Images\th.jpg" Url="Images/th.jpg" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

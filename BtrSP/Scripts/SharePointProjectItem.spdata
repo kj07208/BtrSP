@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Index.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="envconfig.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="fileUploader.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="wizard.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="LookupValues.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Page.BtrEdit.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="SP.User.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="TransferActivity.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Utils.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="waitdialog.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="BudgetTransfer.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Account.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Banner.jv.js" Target="Scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

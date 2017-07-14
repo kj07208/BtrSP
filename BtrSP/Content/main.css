@@ -1,0 +1,8 @@
+﻿#top-nav {
+	background-color: #3B6AA0 !important;
+	padding: 15px 30px !important;
+}
+
+.navbar .nav.pull-right {
+    float: right !important;
+  }

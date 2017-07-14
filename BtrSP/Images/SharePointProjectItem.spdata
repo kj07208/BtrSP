@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Images\" Type="ElementManifest" />
+    <ProjectItemFile Source="AppIcon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="animated_wait.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="animatedEllipse.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="Black_Pencil_Icon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="checkmark100.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="checkmark32.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="delete_1.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="delete_2.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="delete4.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="delete5.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="Dollar-Sign-2-icon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="eye.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="icon-user.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="info.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="logo.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="pencil01.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="plus_light_alt.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="plus16.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="priority-low.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="priority-medium.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="red-cross-small-icons-22612.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="redx100-1.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="redx100-2.jpg" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="semicircle.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="star_selected.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="star_unselected.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="tc_text.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="tc_web_masthead_logo_tag.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="TeacherCollege.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="TeacherCollegeLogo.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="th.jpg" Target="Images\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

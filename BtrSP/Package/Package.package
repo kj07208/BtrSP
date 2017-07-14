@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b23d87e2-dba3-44e5-b229-29e2c7b8247d" solutionId="b23d87e2-dba3-44e5-b229-29e2c7b8247d" resetWebServer="false" sharePointProductVersion="16.0" name="BtrSP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8f166059-30bf-4170-8f26-05083cb2d1e4" />
+  </features>
+</package>
